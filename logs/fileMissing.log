@@ -1,0 +1,240 @@
+Traced on 2024-01-17 05:58:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\Innca\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\Innca\index.php::include_once::19<br>
+Traced on 2024-01-17 06:03:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\Innca\include\utils\UserInfoUtil.php::getInstance::2310<br>
+C:\xampp\htdocs\Innca\modules\Users\models\Privileges.php::getNonAdminAccessControlQuery::173<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQuery::1560<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQueryForRelation::1516<br>
+C:\xampp\htdocs\Innca\modules\Leads\models\Module.php::getRelationQuery::307<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Relation.php::getRelationQuery::123<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getQuery::440<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getRelationQuery::515<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\actions\RelatedRecordsAjax.php::getRelatedEntriesCount::64<br>
+C:\xampp\htdocs\Innca\includes\runtime\Controller.php::getRelatedRecordsCount::64<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\actions\RelatedRecordsAjax.php::invokeExposedMethod::44<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\Innca\index.php::process::22<br>
+Traced on 2024-01-17 06:03:13
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\Innca\include\utils\UserInfoUtil.php::getInstance::2310<br>
+C:\xampp\htdocs\Innca\modules\Users\models\Privileges.php::getNonAdminAccessControlQuery::173<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQuery::1560<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQueryForRelation::1516<br>
+C:\xampp\htdocs\Innca\modules\Leads\models\Module.php::getRelationQuery::307<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Relation.php::getRelationQuery::123<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getQuery::440<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getRelationQuery::273<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\RelatedList.php::getEntries::91<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::process::670<br>
+C:\xampp\htdocs\Innca\includes\runtime\Controller.php::showRelatedList::64<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::invokeExposedMethod::306<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\Innca\index.php::process::22<br>
+Traced on 2024-01-17 06:03:15
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\Innca\include\utils\UserInfoUtil.php::getInstance::2310<br>
+C:\xampp\htdocs\Innca\modules\Users\models\Privileges.php::getNonAdminAccessControlQuery::173<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQuery::1560<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQueryForRelation::1516<br>
+C:\xampp\htdocs\Innca\modules\Leads\models\Module.php::getRelationQuery::307<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Relation.php::getRelationQuery::123<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getQuery::440<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getRelationQuery::273<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\RelatedList.php::getEntries::91<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::process::670<br>
+C:\xampp\htdocs\Innca\includes\runtime\Controller.php::showRelatedList::64<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::invokeExposedMethod::306<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\Innca\index.php::process::22<br>
+Traced on 2024-01-17 06:03:36
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\Innca\include\utils\UserInfoUtil.php::getInstance::2310<br>
+C:\xampp\htdocs\Innca\modules\Users\models\Privileges.php::getNonAdminAccessControlQuery::173<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQuery::1560<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQueryForRelation::1516<br>
+C:\xampp\htdocs\Innca\modules\Leads\models\Module.php::getRelationQuery::307<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Relation.php::getRelationQuery::123<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getQuery::440<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getRelationQuery::273<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\RelatedList.php::getEntries::91<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::process::670<br>
+C:\xampp\htdocs\Innca\includes\runtime\Controller.php::showRelatedList::64<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::invokeExposedMethod::306<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\Innca\index.php::process::22<br>
+Traced on 2024-01-17 06:03:41
+FileAccessForInclusion - 
+C:\xampp\htdocs\Innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\Innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\Innca\include\utils\UserInfoUtil.php::getInstance::2310<br>
+C:\xampp\htdocs\Innca\modules\Users\models\Privileges.php::getNonAdminAccessControlQuery::173<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQuery::1560<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Module.php::getNonAdminAccessControlQueryForRelation::1516<br>
+C:\xampp\htdocs\Innca\modules\Leads\models\Module.php::getRelationQuery::307<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\Relation.php::getRelationQuery::123<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getQuery::440<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\models\RelationListView.php::getRelationQuery::273<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\RelatedList.php::getEntries::91<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::process::670<br>
+C:\xampp\htdocs\Innca\includes\runtime\Controller.php::showRelatedList::64<br>
+C:\xampp\htdocs\Innca\modules\Vtiger\views\Detail.php::invokeExposedMethod::306<br>
+C:\xampp\htdocs\Innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\Innca\index.php::process::22<br>
+Traced on 2024-01-17 08:51:31
+FileAccessForInclusion - 
+/home2/bitechnosys/incca.crm-doctor.com/include/utils/CommonUtils.php::checkFileAccessForInclusion::392<br>
+/home2/bitechnosys/incca.crm-doctor.com/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/home2/bitechnosys/incca.crm-doctor.com/includes/Loader.php::includeOnce::191<br>
+/home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php::vimport::15<br>
+/home2/bitechnosys/incca.crm-doctor.com/index.php::include_once::19<br>
+Traced on 2024-03-25 10:26:31
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\SecondVisit_form.php::getInstanceById::17<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::secondVisit_form::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerCRMObject.php::save::128<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerModuleOperation.php::create::41<br>
+C:\xampp\htdocs\innca\include\Webservices\Create.php::create::83<br>
+C:\xampp\htdocs\innca\include\Webservices\ConvertPotential.php::vtws_create::71<br>
+C:\xampp\htdocs\innca\modules\Potentials\views\SaveConvertPotential.php::vtws_convertPotential::70<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-25 10:28:50
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\SecondVisit_form.php::getInstanceById::17<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::secondVisit_form::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerCRMObject.php::save::128<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerModuleOperation.php::create::41<br>
+C:\xampp\htdocs\innca\include\Webservices\Create.php::create::83<br>
+C:\xampp\htdocs\innca\include\Webservices\ConvertPotential.php::vtws_create::71<br>
+C:\xampp\htdocs\innca\modules\Potentials\views\SaveConvertPotential.php::vtws_convertPotential::70<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-25 10:28:57
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\SecondVisit_form.php::getInstanceById::17<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::secondVisit_form::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerCRMObject.php::save::128<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerModuleOperation.php::create::41<br>
+C:\xampp\htdocs\innca\include\Webservices\Create.php::create::83<br>
+C:\xampp\htdocs\innca\include\Webservices\ConvertPotential.php::vtws_create::71<br>
+C:\xampp\htdocs\innca\modules\Potentials\views\SaveConvertPotential.php::vtws_convertPotential::70<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-25 10:57:39
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\SecondVisit_form.php::getInstanceById::20<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::secondVisit_form::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerCRMObject.php::save::128<br>
+C:\xampp\htdocs\innca\include\Webservices\VtigerModuleOperation.php::create::41<br>
+C:\xampp\htdocs\innca\include\Webservices\Create.php::create::83<br>
+C:\xampp\htdocs\innca\include\Webservices\ConvertPotential.php::vtws_create::71<br>
+C:\xampp\htdocs\innca\modules\Potentials\views\SaveConvertPotential.php::vtws_convertPotential::70<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-27 07:04:28
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\Site_verification.php::getInstanceById::20<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::Site_Verification::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Module.php::save::206<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\SaveAjax.php::saveRecord::18<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-27 10:57:30
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\Site_verification.php::getInstanceById::30<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::Site_Verification::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Module.php::save::206<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\SaveAjax.php::saveRecord::18<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-27 10:58:03
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\Site_verification.php::getInstanceById::30<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::Site_Verification::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Module.php::save::206<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\SaveAjax.php::saveRecord::18<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>

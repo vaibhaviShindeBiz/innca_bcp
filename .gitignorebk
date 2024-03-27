@@ -1,0 +1,14 @@
+/modules/Mobile/api/ws/apicache
+/test
+logs/*
+storage/*
+log/*
+logs/*
+cache/*
+user_privileges/*
+test/templates_c/vlayout/*
+/customerportal/writeable/templates_c/default
+tabdata.php
+parent_tabdata.php
+config.inc.php
+.gitignore

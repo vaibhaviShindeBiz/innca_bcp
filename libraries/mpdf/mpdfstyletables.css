@@ -1,0 +1,141 @@
+body { font-family: Georgia, serif; font-size: 12pt;}
+
+div.a {
+  text-align: center;
+}
+
+hr{
+  width: 650px;
+  border: 1px solid black;
+}
+.ldate{
+  text-align: left;
+}
+.rdate{
+  text-align: right;
+}
+/*td,th
+{
+  text-align: left;
+}
+*/
+.page {
+        margin-top: 4mm; 
+        margin-left: 15mm;
+        margin-right: 15mm;
+        position: relative;
+}
+
+.bondheader {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.bondtitle {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.bordertop
+{
+  border-top: 1px solid;
+}
+
+.leftdate {
+
+  height: auto;
+  width: auto;
+  float: right;
+}
+.rightdate
+{
+  text-align: right;
+}
+
+.outerDiv {
+  height: auto;
+  margin: 0px auto;
+  padding-top:5px;
+}
+
+.leftDiv {
+
+  height: auto;
+  width: 50%;
+  float: left;
+}
+
+.rightDiv {
+  height: auto;
+  width: 50%;
+  float: right;
+}
+
+.downborder {
+ border-bottom: 1px solid;
+ border-collapse:collapse;border-spacing:0;width: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+
+table.empDetail tr td th { font-size: 13px; }
+
+.salary-slip {
+  margin: 15px;
+}
+.salary-slip .empDetail {
+  width: 100%;
+  text-align: left;
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 13px;
+}
+.salary-slip .table-border-bottom {
+  border-bottom: 1px solid;
+}
+.salary-slip .table-border-right {
+  border-right: 1px solid;
+}
+.salary-slip .myBackground {
+  padding-top: 10px;
+  text-align: left;
+  border: 1px solid black;
+  height: 40px;
+}
+.salary-slip .myAlign {
+  text-align: right;
+  border-right: 1px solid black;
+}
+.salary-slip .border-center th{
+  font-size: 14px;
+}
+.salary-slip .border-center td {
+  border: 1px solid black;
+}
+.salary-slip th,
+.salary-slip td {
+  padding: 5px 10px;
+  font-size: 14px;
+}
+.salary-slip .text_right{
+  text-align: right;
+}
+.salary-slip .text_left{
+  text-align: left;
+}
+.page .subheader{
+        margin-bottom:2.2em;
+}
+
+.salary-slip .empDetail .leftsidetext{
+  text-align: left;
+}
+
+@media print {
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+}

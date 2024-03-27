@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_serviceengineer</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_serviceengineer` (
+  `serviceengineerid` int(11) NOT NULL DEFAULT 0,
+  `service_engineer_name` varchar(128) DEFAULT NULL,
+  `tags` varchar(1) DEFAULT NULL,
+  `date_of_birth` date DEFAULT NULL,
+  `date_of_joining` date DEFAULT NULL,
+  `user_password` varchar(100) DEFAULT NULL,
+  `confirm_password` text DEFAULT NULL,
+  `email` varchar(50) DEFAULT NULL,
+  `phone` varchar(30) DEFAULT NULL,
+  `office` varchar(100) DEFAULT NULL,
+  `sub_service_manager_role` varchar(100) DEFAULT NULL,
+  `cust_role` varchar(100) DEFAULT NULL,
+  `designaion` varchar(100) DEFAULT NULL,
+  `regional_office` varchar(100) DEFAULT NULL,
+  `district_office` varchar(100) DEFAULT NULL,
+  `activity_centre` varchar(100) DEFAULT NULL,
+  `service_centre` varchar(100) DEFAULT NULL,
+  `production_division` varchar(100) DEFAULT NULL,
+  `business_vertical` varchar(100) DEFAULT NULL,
+  `yoe` decimal(5,2) DEFAULT NULL,
+  `approval_status` varchar(100) DEFAULT NULL,
+  `sys_detect_role` varchar(250) DEFAULT NULL,
+  `yoe_inequi_aggre` decimal(3,2) DEFAULT NULL,
+  `badge_no` varchar(11) DEFAULT NULL,
+  `rejection_reason` varchar(500) DEFAULT NULL,
+  `ser_usr_log_plat` varchar(500) DEFAULT NULL,
+  `ticket_assign` int(1) DEFAULT 0,
+  `on_leave` int(1) DEFAULT 0,
+  `eq_sr_equip_model` text DEFAULT NULL,
+  `masn_aggrregate` text DEFAULT NULL,
+  `auto_asgn_ticket` varchar(100) DEFAULT NULL,
+  `usr_verification` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_serviceengineercf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_serviceengineercf` (
+  `serviceengineerid` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

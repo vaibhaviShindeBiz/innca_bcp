@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_sitevalidationmasking</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_sitevalidationmasking` (
+  `sitevalidationmaskingid` int NOT NULL,
+  `sitevm_2d` varchar(100) DEFAULT NULL,
+  `sitevm_3d` varchar(100) DEFAULT NULL,
+  `sitevm_alongwith` varchar(100) DEFAULT NULL,
+  `sitevm_alone` varchar(100) DEFAULT NULL,
+  `sitevm_docreceived` varchar(100) DEFAULT NULL,
+  `sitevm_prepare` varchar(100) DEFAULT NULL,
+  `sitevm_description1` varchar(100) DEFAULT NULL,
+  `sitevm_alongwith1` varchar(100) DEFAULT NULL,
+  `sitevm_alone1` varchar(100) DEFAULT NULL,
+  `sitevm_scopework` varchar(100) DEFAULT NULL,
+  `sitevm_comments` varchar(100) DEFAULT NULL,
+  `sitevm_no` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`sitevalidationmaskingid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+		<table>
+			<name>vtiger_sitevalidationmaskingcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_sitevalidationmaskingcf` (
+  `sitevalidationmaskingid` int NOT NULL,
+  PRIMARY KEY (`sitevalidationmaskingid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+	</tables>
+</schema>

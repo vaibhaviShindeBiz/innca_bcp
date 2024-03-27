@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_payment</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_payment` (`paymentid` int(11) NOT NULL, `paymentno` varchar(100) default NULL, `payment_tks_paymenttype` varchar(100) default NULL ,`payment_tks_paiddate` date default NULL ,`payment_tks_bankname` varchar(32) default NULL ,`payment_tks_paymentno` varchar(32) default NULL ,`payment_tks_paymenttotal` decimal(21,5) default NULL ,`payment_tks_description` varchar(250) default NULL ,`payment_tks_termscondition` varchar(250) default NULL ,`payment_tks_billingaddress` varchar(250) default NULL ,`payment_tks_billingcity` varchar(32) default NULL ,`payment_tks_billingstate` varchar(32) default NULL ,`payment_tks_billingpostalcode` varchar(32) default NULL ,`payment_tks_contactname` varchar(32) default NULL ,`payment_tks_invoiceno` varchar(32) default NULL ,`payment_tks_paymentstatus` varchar(100) default NULL ,`payment_tks_paymentdate` date default NULL ,`payment_tks_review` varchar(250) default NULL   , PRIMARY KEY (`paymentid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_paymentcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_paymentcf` (`paymentid` int(11) NOT NULL, PRIMARY KEY (`paymentid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_payment_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_payment_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_payment_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_sitevisit</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_sitevisit` (`sitevisitid` int(11) NOT NULL, `sitevisitno` varchar(100) default NULL, `sitevisit_tks_visitdate` date default NULL   , PRIMARY KEY (`sitevisitid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_sitevisitcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_sitevisitcf` (`sitevisitid` int(11) NOT NULL, PRIMARY KEY (`sitevisitid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_sitevisit_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_sitevisit_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_sitevisit_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

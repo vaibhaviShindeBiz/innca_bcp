@@ -1,0 +1,20 @@
+1) Leads modules changes
+	Possesion Month - change to date field
+	Add new picklist name is Property Type - Apartment, Indivisual House, Villa, Other
+
+2) Leads module and Opp module changes
+	MBR  - Master Badroom
+	GBR - Guest Badroom
+	KBR - Kids Badroom
+	Dry Kitchen - Kitchen1
+	Wet Kitchen  - Kitchen2
+	Add new field check box - Balcony, Teres
+
+	If Appliances active then display field
+		HOB, Chimney, Microwave, Oven, Dish Washer, Coffee Maker
+
+		Attached bathroom unit 1 - Attached bathroom 1
+		Attached bathroom unit 2 - Attached bathroom 2
+
+3) Sitevisit modules changes
+	Site Engineer Name - change to picklist value Internal, Extrnal

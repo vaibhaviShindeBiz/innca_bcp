@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_productcat</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_productcat` (`productcatid` int(11) NOT NULL, `productcatno` varchar(100) default NULL, `productcat_tks_productname` varchar(100) default NULL ,`productcat_tks_cat` varchar(100) default NULL ,`productcat_tks_finish` varchar(100) default NULL   , PRIMARY KEY (`productcatid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_productcatcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_productcatcf` (`productcatid` int(11) NOT NULL, PRIMARY KEY (`productcatid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_productcat_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_productcat_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_productcat_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

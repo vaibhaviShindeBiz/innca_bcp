@@ -1,0 +1,489 @@
+[20-Oct-2023 04:10:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[20-Oct-2023 04:10:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[20-Oct-2023 04:10:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[20-Oct-2023 04:12:27 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:27 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:27 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:30 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:33 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:40 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[20-Oct-2023 04:12:42 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 92
+[30-Oct-2023 00:57:29 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[30-Oct-2023 01:44:17 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[30-Oct-2023 02:33:27 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:14:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:15:09 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 01:46:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:47:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:50:18 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[06-Nov-2023 04:51:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bitechno_incca'@'localhost' to database 'bitechno_newinnca' in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[10-Nov-2023 01:23:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[10-Nov-2023 01:44:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[10-Nov-2023 04:33:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[10-Nov-2023 04:33:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:23:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:23:30 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:52:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:52:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:53:13 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[19-Nov-2023 23:53:54 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[23-Nov-2023 01:57:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Only variables should be passed by reference in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/models/Record.php on line 601
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: CURRENCY_SYMBOL in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/3f45d3e833790495846fc6c7a91f6d4a96a3221a_0.file.StringDetailView.tpl.php on line 61
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/3f45d3e833790495846fc6c7a91f6d4a96a3221a_0.file.StringDetailView.tpl.php on line 61
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: NO_PAGINATION in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/21711a0a4135667d7aad15e7f5f138bb68983e40_0.file.DetailViewActions.tpl.php on line 63
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/21711a0a4135667d7aad15e7f5f138bb68983e40_0.file.DetailViewActions.tpl.php on line 63
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 81
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 81
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 81
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 81
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 81
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 95
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 95
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 95
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 95
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: relationId in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d28b308d05740bec5e53bdd812adce7f0386c4dd_0.file.ModuleRelatedTabs.tpl.php on line 95
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: action in /home2/bitechnosys/incca.crm-doctor.com/include/utils/EditViewUtils.php on line 307
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: action in /home2/bitechnosys/incca.crm-doctor.com/include/utils/EditViewUtils.php on line 307
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: action in /home2/bitechnosys/incca.crm-doctor.com/include/utils/EditViewUtils.php on line 307
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined variable: preTaxTotal in /home2/bitechnosys/incca.crm-doctor.com/modules/Inventory/models/Record.php on line 133
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 59 in /home2/bitechnosys/incca.crm-doctor.com/modules/Inventory/models/Record.php on line 211
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: percent in /home2/bitechnosys/incca.crm-doctor.com/modules/Inventory/views/Detail.php on line 184
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: DAY_STARTS in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: DAY_STARTS in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: DAY_STARTS in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: DAY_STARTS in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: DAY_STARTS in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/1cfd521fd20b6ae19d0b6b24baee14c7f65b1b5f_0.file.DetailViewBlockView.tpl.php on line 37
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: discount_type1 in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 277
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: discount_type1 in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 284
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 598
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 603
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 598
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 603
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 598
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined index: method in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/0ba3fc7a1fc2ec5da775edfbcb7b8a0a035ab33f_0.file.LineItemsDetail.tpl.php on line 603
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 451
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 452
+[23-Nov-2023 09:11:25 UTC] PHP Notice:  Undefined offset: 1 in /home2/bitechnosys/incca.crm-doctor.com/include/fields/CurrencyField.php on line 454
+[23-Nov-2023 09:11:30 UTC] PHP Notice:  Undefined variable: fieldNames in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/Module.php on line 542
+[23-Nov-2023 09:11:30 UTC] PHP Notice:  Undefined variable: fieldNames in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/Module.php on line 542
+[23-Nov-2023 09:11:30 UTC] PHP Notice:  Undefined index: EMAIL_FUNCTION in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d21c0bf0cefdd850bfe1b664f528e2ab3d5175fa_0.file.GetPDFActions.tpl.php on line 27
+[23-Nov-2023 09:11:30 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home2/bitechnosys/incca.crm-doctor.com/test/templates_c/v7/d21c0bf0cefdd850bfe1b664f528e2ab3d5175fa_0.file.GetPDFActions.tpl.php on line 27
+[23-Nov-2023 09:20:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; UserTimeZones has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/UserTimeZonesArray.php on line 15
+[23-Nov-2023 09:20:32 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[23-Nov-2023 09:20:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[23-Nov-2023 09:20:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[23-Nov-2023 09:21:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; UserTimeZones has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/UserTimeZonesArray.php on line 15
+[23-Nov-2023 09:21:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[23-Nov-2023 09:21:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[23-Nov-2023 09:21:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[23-Nov-2023 09:23:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; UserTimeZones has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/UserTimeZonesArray.php on line 15
+[23-Nov-2023 09:23:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[23-Nov-2023 09:23:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[23-Nov-2023 09:23:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[23-Nov-2023 09:25:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; UserTimeZones has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/UserTimeZonesArray.php on line 15
+[23-Nov-2023 09:25:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[23-Nov-2023 09:25:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[23-Nov-2023 09:25:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[23-Nov-2023 09:27:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; UserTimeZones has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/modules/Users/UserTimeZonesArray.php on line 15
+[23-Nov-2023 09:27:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[23-Nov-2023 09:27:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[23-Nov-2023 09:27:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[23-Nov-2023 03:30:42 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:30:53 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:30:56 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:30:56 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:30:58 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:30:59 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:31:01 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:31:01 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 03:38:09 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:24:55 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:24:58 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:25:13 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:25:13 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:25:19 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:25:22 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:25:22 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:29:16 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[23-Nov-2023 04:29:30 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:43:37 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:43:46 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:44:48 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:44:48 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:45:14 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:45:24 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:45:45 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:45:57 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:47:01 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:47:01 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:47:38 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:47:38 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:48:22 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:48:33 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:48:48 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:49:27 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:49:40 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:49:52 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:50:32 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:51:33 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:52:04 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:52:35 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:52:35 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:52:35 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:53:06 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:54:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:54:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:54:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 01:54:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:33:58 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:34:10 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:37:14 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 02:37:15 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 05:01:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[24-Nov-2023 05:01:12 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[27-Nov-2023 01:42:03 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[27-Nov-2023 01:42:03 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[27-Nov-2023 01:42:03 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[30-Nov-2023 05:15:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:15:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:15:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:16:20 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:16:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:16:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:16:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:16:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:16:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:16:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:16:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:16:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:17:20 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:17:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:17:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:17:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:17:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:17:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:17:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:17:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:17:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:18:20 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:18:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:18:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:18:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:18:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:18:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:18:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:39 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:39 UTC] PHP Notice:  Undefined index: return_params in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 27
+[30-Nov-2023 05:19:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 32
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/modules/Vtiger/models/DashBoard.php on line 121
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:19:46 UTC] PHP Notice:  Undefined index: return_params in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 27
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 32
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Response.php on line 158
+[30-Nov-2023 05:19:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:46 UTC] PHP Notice:  Undefined index: return_params in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 27
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 32
+[30-Nov-2023 05:19:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Response.php on line 158
+[30-Nov-2023 05:19:56 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:19:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:19:56 UTC] PHP Notice:  Undefined index: return_params in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 27
+[30-Nov-2023 05:19:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php:25) in /home2/bitechnosys/incca.crm-doctor.com/includes/main/WebUI.php on line 32
+[30-Nov-2023 05:30:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:30:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:30:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:31:01 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:31:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:31:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 05:31:20 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 05:31:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 05:31:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 06:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php7_count() in /home2/bitechnosys/incca.crm-doctor.com/includes/Loader.php:174
+Stack trace:
+#0 [internal function]: Vtiger_Loader::autoLoad('LoggerHierarchy')
+#1 /home2/bitechnosys/incca.crm-doctor.com/libraries/log4php.debug/Logger.php(451): spl_autoload_call('LoggerHierarchy')
+#2 /home2/bitechnosys/incca.crm-doctor.com/libraries/log4php.debug/Logger.php(492): Logger::getHierarchy()
+#3 /home2/bitechnosys/incca.crm-doctor.com/libraries/log4php.debug/Logger.php(541): Logger::resetConfiguration()
+#4 /home2/bitechnosys/incca.crm-doctor.com/include/logging.php(34): Logger::configure('log4php.propert...')
+#5 /home2/bitechnosys/incca.crm-doctor.com/include/database/PearDatabase.php(16): require_once('/home2/bitechno...')
+#6 /home2/bitechnosys/incca.crm-doctor.com/include/utils/UserInfoUtil.php(12): require_once('/home2/bitechno...')
+#7 /home2/bitechnosys/incca.crm-doctor.com/vtlib/Vtiger/Access.php(10): include_once('/home2/bitechno...')
+#8 /home2/bitechnosys/incca.crm-do in /home2/bitechnosys/incca.crm-doctor.com/includes/Loader.php on line 174
+[30-Nov-2023 06:34:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home2/bitechnosys/incca.crm-doctor.com/includes/http/Request.php on line 25
+[30-Nov-2023 06:34:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/HTTP_Session2/HTTP/Session2.php on line 211
+[30-Nov-2023 06:34:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bitechnosys/incca.crm-doctor.com/libraries/csrf-magic/csrf-magic.php on line 378
+[30-Nov-2023 10:36:05 UTC] PHP Warning:  include_once(include/utils/GeneralUtils.php): failed to open stream: No such file or directory in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 117
+[30-Nov-2023 10:36:05 UTC] PHP Warning:  include_once(): Failed opening 'include/utils/GeneralUtils.php' for inclusion (include_path='/home2/bitechnosys/incca.crm-doctor.com/libraries/htmlpurifier410/library:.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 117
+[30-Nov-2023 10:36:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCurrentUserPlantDetailsFromMobileLogin() in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php:118
+Stack trace:
+#0 /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api.v1.php(83): Mobile_WS_Login->process(Object(Mobile_API_Request))
+#1 /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api.php(63): Mobile_APIV1_Controller->process(Object(Mobile_API_Request))
+#2 {main}
+  thrown in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 118
+[30-Nov-2023 10:36:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; freetag has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/libraries/freetag/freetag.class.php on line 29
+[30-Nov-2023 10:36:41 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home2/bitechnosys/incca.crm-doctor.com/data/CRMEntity.php on line 1068
+[30-Nov-2023 10:36:41 UTC] PHP Notice:  Undefined offset: 5 in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 140
+[30-Nov-2023 10:36:41 UTC] PHP Warning:  include_once(include/utils/GeneralUtils.php): failed to open stream: No such file or directory in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 117
+[30-Nov-2023 10:36:41 UTC] PHP Warning:  include_once(): Failed opening 'include/utils/GeneralUtils.php' for inclusion (include_path='/home2/bitechnosys/incca.crm-doctor.com/libraries/htmlpurifier410/library:.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 117
+[30-Nov-2023 10:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCurrentUserPlantDetailsFromMobileLogin() in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php:118
+Stack trace:
+#0 /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api.v1.php(83): Mobile_WS_Login->process(Object(Mobile_API_Request))
+#1 /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api.php(63): Mobile_APIV1_Controller->process(Object(Mobile_API_Request))
+#2 {main}
+  thrown in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 118
+[30-Nov-2023 10:38:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; freetag has a deprecated constructor in /home2/bitechnosys/incca.crm-doctor.com/libraries/freetag/freetag.class.php on line 29
+[30-Nov-2023 10:38:16 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home2/bitechnosys/incca.crm-doctor.com/data/CRMEntity.php on line 1068
+[30-Nov-2023 10:38:16 UTC] PHP Notice:  Undefined offset: 5 in /home2/bitechnosys/incca.crm-doctor.com/modules/Mobile/v1/api/ws/Login.php on line 140
+[30-Nov-2023 10:38:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/bitechnosys/incca.crm-doctor.com/include/utils/GeneralUtils.php on line 1244
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/script.php:88) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 97
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/script.php:88) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 97
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  mysqli_result::free(): Couldn't fetch mysqli_result in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 88
+[12-Dec-2023 04:58:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bitechnosys/incca.crm-doctor.com/script.php:88) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 97
+[17-Jan-2024 02:54:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:54:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:54:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:54:52 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:55:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:55:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:55:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[17-Jan-2024 02:55:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:17 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:17 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:26 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:06:29 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:07:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:07:31 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:07:54 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:07:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:08:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:08:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:08:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:08:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:10:28 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:10:28 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:11:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:11:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:12:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:12:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:12:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[24-Jan-2024 06:12:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:04:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:04:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:05:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:05:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:06:30 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:06:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:59 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:59 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:07:59 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:08:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:08:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[31-Jan-2024 00:08:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:12:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:12:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:13:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:13:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:13:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:14:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:14:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:14:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:14:20 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:15:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:15:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:15:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:16:11 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:16:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:16:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[05-Feb-2024 07:16:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:44:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:45:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:46:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4
+[04-Mar-2024 00:46:16 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bitechno_incca'@'localhost' (using password: YES) in /home2/bitechnosys/incca.crm-doctor.com/script.php on line 4

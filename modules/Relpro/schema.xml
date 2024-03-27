@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_relpro</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_relpro` (`relproid` int(11) NOT NULL, `relprono` varchar(100) default NULL, `relpro_tks_sasas` varchar(100) default NULL ,`relpro_tks_ssaaaaa` varchar(100) default NULL   , PRIMARY KEY (`relproid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_relprocf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_relprocf` (`relproid` int(11) NOT NULL, PRIMARY KEY (`relproid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_relpro_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_relpro_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_relpro_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

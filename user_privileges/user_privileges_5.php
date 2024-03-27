@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'1212','is_admin'=>'on','user_password'=>'$2y$10$fniARbePz1lL4HW2rvA8AOP7BeVBpFUcFYN6tFis3ODKik4bcOWky','confirm_password'=>'$2y$10$9WzaKVGZloQFLkj/WtQYleRgq7xIfLxoravxpzjUx9QR4bv9lmgyq','first_name'=>'Prashant','last_name'=>'Ranjan','roleid'=>'H2','email1'=>'prashant@123','status'=>'Active','activity_view'=>'Today','lead_view'=>'Today','hour_format'=>'12','end_hour'=>'','start_hour'=>'09:00','is_owner'=>'','title'=>'','phone_work'=>'','department'=>'','phone_mobile'=>'1234567890','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'','secondaryemail'=>'jifin.kj@biztechnosys.com','phone_home'=>'','date_format'=>'yyyy-mm-dd','signature'=>'','description'=>'','address_street'=>'3rd main Rd','address_city'=>'Siwan','address_state'=>'Bihar','address_postalcode'=>'860001','address_country'=>'Bharat','accesskey'=>'ZwDrXs2cl0TMRgn','time_zone'=>'UTC','currency_id'=>'2','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>',','currency_symbol_placement'=>'$1.0','imagename'=>'profile.jpg','internal_mailer'=>'0','theme'=>'softed','language'=>'en_us','reminder_interval'=>'','phone_crm_extension'=>'','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'0','dayoftheweek'=>'Sunday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'','defaultactivitytype'=>'','hidecompletedevents'=>'0','defaultcalendarview'=>'','defaultlandingpage'=>'Home','userlabel'=>'Prashant Ranjan','currency_name'=>'India, Rupees','currency_code'=>'INR','currency_symbol'=>'₹','conv_rate'=>'1.00000','record_id'=>'','id'=>'5');
+
+?>
