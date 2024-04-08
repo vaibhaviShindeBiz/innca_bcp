@@ -238,3 +238,22 @@ C:\xampp\htdocs\innca\modules\Vtiger\actions\Save.php::save::117<br>
 C:\xampp\htdocs\innca\modules\Vtiger\actions\SaveAjax.php::saveRecord::18<br>
 C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
 C:\xampp\htdocs\innca\index.php::process::22<br>
+Traced on 2024-03-29 10:03:49
+FileAccessForInclusion - 
+C:\xampp\htdocs\innca\include\utils\CommonUtils.php::checkFileAccessForInclusion::392<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\innca\modules\Whatsapp\invoke_functions\SchaduleMeeting.php::getInstanceById::20<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEntityMethodManager.inc::SchaduleMeeting::35<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::438<br>
+C:\xampp\htdocs\innca\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\innca\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\innca\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\innca\data\CRMEntity.php::triggerEvent::1043<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Module.php::save::206<br>
+C:\xampp\htdocs\innca\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\innca\modules\Vtiger\actions\SaveAjax.php::saveRecord::18<br>
+C:\xampp\htdocs\innca\includes\main\WebUI.php::process::215<br>
+C:\xampp\htdocs\innca\index.php::process::22<br>

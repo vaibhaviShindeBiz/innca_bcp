@@ -14,7 +14,7 @@ a:focus,
 a:active {
   outline: none;
 }
-  [data-block="LBL_QUOTE_INFORMATION"]
+  /* [data-block="LBL_QUOTE_INFORMATION"]
   {
     display: none !important;
   }
@@ -26,7 +26,7 @@ a:active {
   }
   [data-block="LBL_CUSTOM_INFORMATION"]{
     display:none;
-  }
+  } */
 
 @font-face {
   font-family: 'OpenSans-Regular';

@@ -371,35 +371,29 @@ class Leads_FollowUp_View extends Vtiger_IndexAjax_View {
 					if ($getDataPDF && $adb->num_rows($getDataPDF) > 0) {
 						$row = $adb->fetchByAssoc($getDataPDF);
 						$body = $row['body'];
-						// Include MPDF library
+					
 						require_once 'libraries/mpdf/mpdf/mpdf.php';
 			
 						$module = 'Quotes';
 						$language = 'en_us';
-						// Initialize MPDF instance
-						$mpdf = new Mpdf('c','A4','','',15,15,15,15,15,15);  
-						// $mpdf->SetFont('DejaVuSans', '', 12);
-						// Generate PDF content
+		
+						$mpdf = new Mpdf('c','A4','','',15,15,15,15,15,15,'UTF-8');  
+					
 						$pdfContent = Leads_FollowUp_View::GetPreparedMPDF($mpdf, $record, $module, $language);
 						
-						// Print the directory path for debugging
 						$pdfDirectory = 'C:\\xampp\\htdocs\\innca\\QuotePdf\\';
 
-						// Generate a unique file name for the PDF
 						$pdfFileName = $pdfDirectory . $this->GenerateName($record, $module) . '.pdf';
 						$pdfFileLink = $this->GenerateName($record, $module) . '.pdf';
-						// print_r($pdfFileLink); exit;
-						// Save the PDF content to the file
+					
 						file_put_contents($pdfFileName, $pdfContent);
 
-						// Set headers for PDF download
 						header('Pragma: public');
 						header('Expires: 0');
 						header('Content-Type: application/pdf');
 						header('Content-Disposition: attachment; filename="' . basename($pdfFileName) . '"');
 						header('Content-Length: ' . filesize($pdfFileName));
 
-						// Send the file for download
 						// readfile($pdfFileName);
 					}
 				}
@@ -453,7 +447,6 @@ class Leads_FollowUp_View extends Vtiger_IndexAjax_View {
 		$body_html = '';
 		$footer_html = '';
 	
-		// Retrieve entity info
 		$focus = CRMEntity::getInstance($module);
 		foreach ($focus->column_fields as $cf_key => $cf_value) {
 			$focus->column_fields[$cf_key] = '';
@@ -461,38 +454,32 @@ class Leads_FollowUp_View extends Vtiger_IndexAjax_View {
 		$focus->retrieve_entity_info($record, $module);
 		$focus->id = $record;
 	
-		// Get PDF content
 		$PDFContent = $this->GetPDFContentRef($module, $focus, $language);
 		$Settings = $PDFContent->getSettingsForModule($module);
 		$pdf_content = $PDFContent->getContent();
-	
-		// Extract content
+
 		$header_html = $pdf_content["header"];
 		$body_html = $pdf_content["body"];
 		$footer_html = $pdf_content["footer"];
 	
-		 // Set font to support Indian rupee symbol
 		 $mpdf->SetFont('Arial Unicode MS', '', 12);
 
-		// Generate HTML content with currency symbols
 		$header_html_with_symbol = $header_html;
 		$body_html_with_symbol =  $body_html;
 		$footer_html_with_symbol =  $footer_html;
 
-		// Ensure proper encoding of HTML content
-		$header_html_with_symbol = mb_convert_encoding($header_html_with_symbol, 'HTML-ENTITIES', 'UTF-8');
-		$body_html_with_symbol = mb_convert_encoding($body_html_with_symbol, 'HTML-ENTITIES', 'UTF-8');
-		$footer_html_with_symbol = mb_convert_encoding($footer_html_with_symbol, 'HTML-ENTITIES', 'UTF-8');
+		// Convert HTML content to HTML entities with proper encoding
+		$header_html_with_symbol = mb_convert_encoding($header_html, 'HTML-ENTITIES', 'UTF-8');
+		$body_html_with_symbol = mb_convert_encoding($body_html, 'HTML-ENTITIES', 'UTF-8');
+		$footer_html_with_symbol = mb_convert_encoding($footer_html, 'HTML-ENTITIES', 'UTF-8');
 
-		//  print_r($body_html_with_symbol); exit; // getting the symbole
-		// Generate PDF content using MPDF
+		// Write HTML content to mPDF with explicit encoding
 		$mpdf->WriteHTML($header_html_with_symbol);
-		$mpdf->WriteHTML($body_html_with_symbol);
+	 	$mpdf->WriteHTML($body_html_with_symbol);
 		$mpdf->WriteHTML($footer_html_with_symbol);
-	
 		// Output the PDF content
 		$pdfContent = $mpdf->Output('', 'S');
-		// Output as string
+		
 		return $pdfContent;
 	}
 
